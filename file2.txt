@@ -1,1 +1,1 @@
-iterator
+iterator can be used in Python
